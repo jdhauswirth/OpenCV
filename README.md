@@ -2,7 +2,7 @@
 
 Created in PyCharm
 
-![img_HSV_stack.jpg](attachment:img_HSV_stack.jpg
+![img_HSV_stack.jpg](outputs/img_HSV_stack.jpg)
 
 
 using this .py script you should be able to:
@@ -13,4 +13,4 @@ using this .py script you should be able to:
 4)   adjust trackbars 
 
 
-![img_HSV_stack.jpg](attachment:img_HSV_stack.jpg
+![img_HSV_stack.jpg](resources/Screen Shot PyCharm IDE.png)
